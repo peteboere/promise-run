@@ -1,0 +1,25 @@
+{
+  "name": "promise-run",
+  "version": "1.0.0",
+  "main": "promise-run.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "promise",
+    "promises",
+    "promise-runner"
+  ],
+  "author": "Pete Boere <pete@the-echoplex.net> (https://github.com/peteboere)",
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "~0.13.19",
+    "karma-chrome-launcher": "~0.2.2",
+    "karma-firefox-launcher": "~0.1.7",
+    "karma-jasmine": "~0.3.7",
+    "karma-phantomjs-launcher": "~1.0.0",
+    "karma-safari-launcher": "~0.1.1",
+    "phantomjs-prebuilt": "~2.1.4"
+  },
+  "description": "Promise runner"
+}
